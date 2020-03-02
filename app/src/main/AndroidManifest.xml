@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="classic_tetris.blockgame">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".MainApplication"
+        android:allowBackup="true"
+        android:fullBackupContent="@xml/my_backup_rules"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppThemeMain">
+
+        <activity
+            android:name=".ui.Main"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.Settings"
+            android:label="@string/Settings"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeOther"></activity>
+        <activity
+            android:name=".ui.about.AboutActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/About"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeOther"></activity>
+        <activity
+            android:name=".ui.Privacy"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="Privacy Policy"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeOther"></activity>
+    </application>
+
+</manifest>

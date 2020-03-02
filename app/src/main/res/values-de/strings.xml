@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Settings_backgroundcolour">Hintergrundfarbe</string>
+    <string name="app_version">Version</string>
+    <string name="Settings_button">Tastenfarbe</string>
+    <string name="Settings_textures">Texturen</string>
+    <string name="changed_to">geändert zu</string>
+    <string name="colour">Farbe</string>
+    <string name="settings_orientation">Bildschirmausrichtung</string>
+    <string name="colour_blue">Blau</string>
+    <string name="colour_gray">Grau</string>
+    <string name="colour_green">Grün</string>
+    <string name="colour_red">Rot</string>
+    <string name="colour_yellow">Gelb</string>
+    <string name="is_now">ist nun</string>
+    <string name="Settings_sound">Ton im Spiel erlauben</string>
+    <string name="About">Über das Spiel</string>
+    <string name="About_Text1">entwickelt von Tobias Bielefeld</string>
+    <string name="About_Text2">Danke fürs Spielen :)</string>
+    <string name="About_Text3">Töne erstellt mithilfe:</string>
+    <string name="Settings">Einstellungen</string>
+    <string name="number">Nummer</string>
+    <string name="and">und</string>
+    <string name="about_build_date">Kompiliert am</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="settingsBackPress">Beenden des Spiels bestätigen</string>
+    <string name="settingsBackPressDescription">Zum Beenden Zurück Taste zwei mal drücken</string>
+    <string name="settingsStatusBar">Benachrichtigungsleiste verbergen</string>
+    <string name="press_again">Zum Beenden erneut drücken</string>
+    <string name="settingsCustomize">Individualisieren</string>
+    <string name="settingsOtherSettings">Andere Einstellungen</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="settingsVibrationStrength">Vibrationsstärke</string>
+    <string name="off">Aus</string>
+    <string name="about_tab_1">Informationen</string>
+    <string name="about_tab_3">Änderungen</string>
+    <string name="about_tab_2">Lizenz</string>
+    <string name="about_programm_code_text">Quellcode erhältlich auf:</string>
+    <string name="ui_close">Close</string>
+    <string name="ui_reset">Reset</string>
+    <string name="ui_pause">Pause</string>
+    <string name="ui_highscore">HighScore:</string>
+    <string name="ui_score">Score:</string>
+    <string name="ui_level">Level:</string>
+    <string name="ui_speed">Speed:</string>
+    <string name="translations">Übersetzungen:</string>
+    <string name="settings_change_language">Sprache ändern</string>
+    <string name="settingsEnabledKeyboardInputTitle">Erlaube Tastatur Eingabe</string>
+    <string name="settingsEnabledKeyboardInputText">Verstecke die Software Knöpfe und erlaube Eingabe über eine physische Tastatur</string>
+    <string name="settingsKeyboardInputMappingTitle">Tastenbelegung</string>
+    <string name="settingsKeyboardInputMappingText">Wähle andere Tasten für die Eingabe aus</string>
+    <string name="settingsInput">Eingabe</string>
+    <string name="about_translations">Übersetzungen</string>
+    <string name="about_translations_esperanto_polish">Esperanto und Polnisch: Von GitHub Nutzer verdulo</string>
+    <string name="about_translations_french">Französisch: Von GitHub Nutzer xinxinxinxinxin</string>
+    <string name="about_translations_portuguese">Portugiesisch: Von GitHub Nutzer jeisoncp</string>
+
+    <string name="keyboardDialog_warning">Zurzeit ist es nicht möglich spezielle Tasten wie Enter, Leertaste oder Escape für die Eingabe auszuwählen,
+        da diese Tasten für die Navigation in der Android UI verwendet werden.</string>
+    <string name="keyboardDialog_title1">Aktionstasten</string>
+    <string name="keyboardDialog_title2">Menütasten</string>
+    <string name="keyboardDialogLeft">Links</string>
+    <string name="keyboardDialogRight">Rechts</string>
+    <string name="keyboardDialogUp">Oben</string>
+    <string name="keyboardDialogDown">Unten</string>
+    <string name="keyboardDialogAction">Aktion</string>
+    <string name="credits_to_roger_hicks_and_matt_white">credits to: Roger Hicks and Matt White</string>
+    <string name="under_cc_by_3_0_license"><a href="https://creativecommons.org/licenses/by/3.0/us/"> under CC-BY-3.0 license </a></string>
+    <string name="under_apache_licence_2_0"><a href="http://www.apache.org/licenses/LICENSE-2.0.html"> under Apache Licence 2.0 </a></string>
+
+</resources>

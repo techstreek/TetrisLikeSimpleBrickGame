@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Classic Blocks Puzzle</string>
+    <string name="app_version">Version</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="press_again">Press again to exit</string>
+    <string name="translations">Translations</string>
+
+    <!--UI-->
+    <string name="ui_close">Close</string>
+    <string name="ui_reset">Reset</string>
+    <string name="ui_pause">Pause</string>
+
+    <string name="ui_highscore">HighScore:</string>
+    <string name="ui_score">Score:</string>
+
+    <string name="ui_level">Level:</string>
+    <string name="ui_speed">Speed:</string>
+
+    <!--Colours-->
+    <string name="colour_blue">Blue</string>
+    <string name="colour_green">Green</string>
+    <string name="colour_red">Red</string>
+    <string name="colour_yellow">Yellow</string>
+    <string name="colour_gray">Gray</string>
+
+    <!--Settings-->
+    <string name="Settings">Settings</string>
+    <string name="settings_orientation">Screen orientation</string>
+    <string name="settingsInput">Input</string>
+    <string name="Settings_textures">Textures</string>
+    <string name="Settings_backgroundcolour">Background colour</string>
+    <string name="Settings_button">Button colour</string>
+    <string name="colour">colour</string>
+    <string name="Settings_sound">Enable sound in game</string>
+    <string name="changed_to">changed to</string>
+    <string name="number">Number</string>
+    <string name="is_now">is now</string>
+    <string name="settingsStatusBar">Hide notification bar</string>
+    <string name="settingsBackPress">Confirm closing game</string>
+    <string name="settingsBackPressDescription">Press back button twice to close game</string>
+    <string name="settingsCustomize">Customize</string>
+    <string name="settingsOtherSettings">Other settings</string>
+    <string name="settingsVibrationStrength">Vibration strength</string>
+    <string name="prefKeyTextures" translatable="false">prefKeyTextures</string>
+    <string name="prefKeyBackground" translatable="false">prefKeyBackground</string>
+    <string name="prefKeyButtons" translatable="false">prefKeyButtons</string>
+    <string name="prefKeyVibrationStrength" translatable="false">prefKeyVibrationStrength</string>
+    <string name="prefKeySound" translatable="false">prefKeySound</string>
+    <string name="prefKeyConfirmClosing" translatable="false">prefKeyConfirmClosing</string>
+    <string name="prefKeyHideStatusBar" translatable="false">prefKeyHideStatusBar</string>
+    <string name="prefKeyEnableKeyboardInput" translatable="false">prefKeyEnableKeyboardInput</string>
+    <string name="pref_key_language" translatable="false">pref_key_language</string>
+    <string name="prefKeyKeyboardInputMapping" translatable="false">prefKeyKeyboardInput</string>
+    <string name="pref_key_orientation" translatable="false">pref_key_orientation</string>
+    <string name="settingsEnabledKeyboardInputTitle">Enable keyboard input</string>
+    <string name="settingsEnabledKeyboardInputText">Hide the software buttons and enable input via a physical keyboard</string>
+    <string name="settingsKeyboardInputMappingTitle">Key assignment</string>
+    <string name="settingsKeyboardInputMappingText">Select other keys for the input</string>
+
+    <string name="settings_change_language">Change language</string>
+
+    <!--About-->
+    <string name="About">About Game</string>
+    <string name="About_Text1">developed by Tobias Bielefeld</string>
+    <string name="About_Text2">thanks for playing my game :)</string>
+    <string name="About_Text3">Sounds created with:</string>
+    <string name="About_Text4" translatable="false">www.pulseboy.com</string>
+    <string name="About_Text5" translatable="false">www.bfxr.net</string>
+
+    <string name="pulseboy" translatable="false">PulseBoy</string>
+    <string name="and">and</string>
+    <string name="credits_to_roger_hicks_and_matt_white">credits to: Roger Hicks and Matt White</string>
+    <string name="bfxr" translatable="false">BFXR</string>
+    <string name="under_cc_by_3_0_license"><a href="https://creativecommons.org/licenses/by/3.0/us/"> under CC-BY-3.0 license </a></string>
+    <string name="under_apache_licence_2_0"><a href="http://www.apache.org/licenses/LICENSE-2.0.html"> under Apache Licence 2.0 </a></string>
+    <string name="off">Off</string>
+
+    <string name="about_tab_1">Information</string>
+    <string name="about_tab_2">License</string>
+    <string name="about_tab_3">Changelog</string>
+    <string name="about_build_date">Build date</string>
+    <string name="about_programm_code_text">Source code available on:</string>
+    <string name="about_programm_code_text2" translatable="false"><a href="https://github.com/TobiasBielefeld/Simple-Brick-Games">GitHub</a></string>
+
+    <string name="about_translations">Translations</string>
+    <string name="about_translations_esperanto_polish">Esperanto and Polish: By GitHub User verdulo</string>
+    <string name="about_translations_french">French: By GitHub User xinxinxinxinxin</string>
+    <string name="about_translations_portuguese">Portuguese: By GitHub User jeisoncp</string>
+
+    <!--KeyboardDialog-->
+    <string name="keyboardDialog_warning">Currently you cannot choose special keys like Enter, Space or Escape for input,
+        because they are used for navigation in the Android UI.</string>
+    <string name="keyboardDialog_title1">Action buttons</string>
+    <string name="keyboardDialog_title2">Menu buttons</string>
+    <string name="keyboardDialogLeft">Left</string>
+    <string name="keyboardDialogRight">Right</string>
+    <string name="keyboardDialogUp">Up</string>
+    <string name="keyboardDialogDown">Down</string>
+    <string name="keyboardDialogAction">Action</string>
+
+    <string name="title_activity_advertisement">Advertisement</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+</resources>
